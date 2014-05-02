@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl.jar" sourcepath="C:/Libraries/lwjgl-2.9.1/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Slick2D%20Practice/lib/lwjgl-docs-2.9.1.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Slick2D Practice/natives/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slick.jar" sourcepath="C:/Libraries/slick/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Slick2D%20Practice/lib/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Slick2D Practice/natives/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
